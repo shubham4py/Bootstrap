@@ -1,0 +1,59 @@
+*{padding: 0; margin: 0; }     .block{margin-top: 90px; padding-left: 8%;}
+.head1{transform: rotate(-30deg);} 
+.MainBlock{border-bottom-right-radius: 3%; box-shadow: 38px 28px 0 -28px #333;}
+
+.text{margin: 8px; display: flex; font-weight: 700; font-size: 15px;cursor: pointer; font-family:Arial, Helvetica, sans-serif;}
+
+.block1{border: none;}
+
+.text2{margin: 20px; font-size: 15px; font-weight: 800; font-family: Arial, Helvetica, sans-serif;font-style: italic; color: rgb(233, 28, 28); cursor: pointer;}
+:hover.text2{color: rgb(7, 128, 165); transition: all .2s ease-in;} 
+
+.headtext{width:100%; display: flex; padding-left: 900px;}
+
+.search{padding-left: 44%; cursor: pointer;}
+
+.img{ width: 100%; border-radius:0 0 6% 0;}
+
+.cardtitle{ margin: 349px 0px 0px -5px; width:101%; text-align: center; color: white; background-color: rgba(51, 51, 51, 0.7);    backdrop-filter: blur(2.5px); border-bottom-right-radius: 43px;;}
+
+.text3{font-size: 44px; font-weight: 800; font-family:MS Reference Sans Serif;}
+
+.text4{font-size: 20px; font-weight: 800; font-family:MS Reference Sans Serif;}
+
+.learn{font-size: 15px;    font-weight: 700;    color: #fff;    background-color: #d2010d;    text-align: center;   padding: 8px 18px 12px;   border-radius: 99964px 0 99999px 99999px;   display: inline-block;   font-style: italic; cursor: pointer;}
+:hover.learn{background: rgb(7, 128, 165); transition: all .2s ease-in;} 
+
+.view{font-size: 15px;    font-weight: 700;    color: rgb(233, 28, 28);    background-color: white;    text-align: center;   padding: 8px 18px 12px;   border-radius: 99964px 0 99999px 99999px;   display: inline-block;   font-style: italic; cursor: pointer;}
+:hover.view{background: rgb(7, 128, 165);color: #fff; transition: all .2s ease-in;} 
+
+.text6{margin: 20px; padding-left: 30%; color: #d2010d; font-weight: 700; font-style: italic;}
+.box1{background: red; color: white; text-align: justify; padding:53px 145px 0px 28px; margin: 2%; border-radius: 8% 0 0 0;}
+.img2{margin-top: 77px;}
+.text5{font-size: 30px; font-weight: 900; font-style: italic;}
+
+.block2{border: none;}
+.text7{color: #d2010d; font-size: 15px; font-family: 200; cursor: pointer;}
+.img3{border-radius: 8%; margin: 10px; background: rgb(105, 102, 102, 0.1); cursor: pointer;}
+
+.block3{border: none; align-items: center; text-align: center;}
+.text8{ color: rgb(67, 63, 63); font-weight: 700; font-size: 22px;}
+
+.block4{display: inline-flex; width: 100%;}
+.block5{ align-items: center;  padding: 30px;height: 270px;box-shadow: 1px 3px gainsboro; border-radius:0 0 10% 10%;}
+:hover.block5{box-shadow:2px 0 5px 4px gainsboro; transition: all .2s ease-in-out;}
+.block6{margin: 20px; border-radius: 5%;}
+.text9{color: #d2010d; font-size: 20px; font-family:MS Reference Sans Serif; font-weight: 700; font-style: italic;}
+
+.point{padding: 0 18px 0 9px;   width: 30px;   height: 30px; color: #fff; font-size: 14px; font-weight:800;  border: 2px solid #f5010b;   background-color: #f5010b;   border-radius: 50%;  display: inline-flex;  position: relative;right: -250px;bottom: 20px; cursor: pointer;}
+.point1{padding: 0 18px 0 9px;   width: 30px;   height: 30px; color: #fff; font-size: 14px; font-weight:800;  border: 2px solid #f5010b;   background-color: #f5010b;   border-radius: 50%;  display: inline-flex;  position: relative; right: -290px; bottom: -8px;cursor: pointer;}
+:hover.point{box-shadow: 2px 0 1px gray; font-size: 15px; font-weight: 900;}
+:hover.point1{box-shadow: 2px 0 1px gray; font-size: 15px; font-weight: 900;}
+
+.fooot{background: #333; width: 100%; align-items: center; color: #fff;}
+:hover.text11{color: rgb(7, 128, 165); transition: all .2s ease-in; cursor: pointer;}
+.block7{padding-top:50px;}
+.text10{font-size: 20px; font-weight: 700; font-style: italic;}
+.textt{font-size: 17px; font-weight: 600; font-style: italic;}
+.footer{border: 1px solid #d2010d; background: #d2010d; width: 100%; height: 10px;}
+
